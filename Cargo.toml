@@ -1,0 +1,48 @@
+[package]
+name = "cafef-rs"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.100"
+license = "MIT"
+repository = "https://github.com/vnquants/cafef-rs"
+readme = "README.md"
+description = "Rust client for CafeF (cafef.vn): financial-statement document library and statement tables"
+keywords = ["cafef", "vietnam", "finance", "financial-statements", "filings"]
+categories = ["api-bindings", "finance"]
+
+[lib]
+name = "cafef"
+
+[dependencies]
+# HTTP with a Chrome TLS/HTTP2 fingerprint, same pinned versions as vietstock-rs.
+# CafeF itself accepted plain curl on 2026-11-19, so the fingerprint is insurance
+# against a future bot wall rather than a current requirement.
+#
+# No `deflate` and no wreq-util `emulation-compression`, as in vietstock-rs: Rust
+# decoders reject raw deflate. CafeF never chose deflate in tests (2026-11-19):
+# cafef.vn answers gzip, apiweb.cafef.vn sends uncompressed JSON.
+wreq = { version = "=6.0.0-rc.31", features = ["gzip", "brotli", "zstd"] }
+wreq-util = { version = "=3.0.0-rc.14", features = ["emulation"] }
+
+chrono = { version = "0.4", features = ["serde"] }
+rust_decimal = { version = "1.43.0", features = ["serde"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+sha2 = "0.11.1"
+thiserror = "2"
+tokio = { version = "1", features = ["macros", "rt-multi-thread", "time"] }
+tracing = "0.1"
+
+[dev-dependencies]
+tracing-subscriber = { version = "0.3", features = ["env-filter", "fmt"] }
+
+[lints.rust]
+unsafe_code = "deny"
+
+[lints.clippy]
+print_stdout = "deny"
+print_stderr = "deny"
+unwrap_used = "warn"
+expect_used = "warn"
+todo = "deny"
+unimplemented = "deny"

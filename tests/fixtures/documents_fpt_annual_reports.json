@@ -1,0 +1,36 @@
+{
+  "Data": [
+    {
+      "id": "6a0be7269816174bf1436c85",
+      "Type": 0,
+      "Quarter": 5,
+      "Year": 2026,
+      "Time": "CN/2026",
+      "Name": "Bản điều lệ",
+      "IconFile": "https://cafefnew.mediacdn.vn/Blazor/Images/pdf.svg",
+      "Link": "https://cafefnew.mediacdn.vn/Images/Uploaded/DuLieuDownload/BCTC/FPT_BDL_2026.pdf"
+    },
+    {
+      "id": "6a17e633690c3cd8ef81decf",
+      "Type": 0,
+      "Quarter": 5,
+      "Year": 2025,
+      "Time": "CN/2025",
+      "Name": "Báo cáo thường niên năm 2025",
+      "IconFile": "https://cafefnew.mediacdn.vn/Blazor/Images/pdf.svg",
+      "Link": "https://cafefnew.mediacdn.vn/Images/Uploaded/DuLieuDownload/BCTC/FPT_25CN_BCTN.pdf"
+    },
+    {
+      "id": "6406042be64c254f3a54b3df",
+      "Type": 0,
+      "Quarter": 5,
+      "Year": 0,
+      "Time": "CN/0",
+      "Name": "Bản điều lệ",
+      "IconFile": "https://cafefnew.mediacdn.vn/Blazor/Images/pdf.svg",
+      "Link": "https://cafefnew.mediacdn.vn/Images/Uploaded/DuLieuDownload/BanCaoBach/FPT_BDL_2021.pdf"
+    }
+  ],
+  "Message": null,
+  "Success": true
+}

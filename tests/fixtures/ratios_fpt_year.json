@@ -1,0 +1,236 @@
+{
+  "isSuccess": true,
+  "value": {
+    "count": 24,
+    "name": "Chỉ số tài chính",
+    "templace": [
+      {
+        "name": "Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS)",
+        "code": "EPS",
+        "number": 1
+      },
+      {
+        "name": "Giá trị sổ sách của cổ phiếu (BVPS)",
+        "code": "BV",
+        "number": 2
+      },
+      {
+        "name": "Chỉ số giá thị trường trên thu nhập (P/E)",
+        "code": "PE",
+        "number": 3
+      },
+      {
+        "name": "Chỉ số giá thị trường trên giá trị sổ sách (P/B)",
+        "code": "PB",
+        "number": 4
+      },
+      {
+        "name": "Tỷ suất lợi nhuận gộp biên",
+        "code": "GOS",
+        "number": 5
+      },
+      {
+        "name": "Tỷ suất sinh lợi trên doanh thu thuần",
+        "code": "ROS",
+        "number": 6
+      },
+      {
+        "name": "Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA)",
+        "code": "ROE",
+        "number": 7
+      },
+      {
+        "name": "Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA)",
+        "code": "ROA",
+        "number": 8
+      },
+      {
+        "name": "Tỷ số thanh toán hiện hành (ngắn hạn)",
+        "code": "TSTTHH",
+        "number": 9
+      },
+      {
+        "name": "Khả năng thanh toán lãi vay",
+        "code": "KNTTLV",
+        "number": 10
+      },
+      {
+        "name": "Tỷ số Nợ trên Tổng tài sản",
+        "code": "DAR",
+        "number": 11
+      },
+      {
+        "name": "Tỷ số Nợ vay trên Vốn chủ sở hữu",
+        "code": "TSNVTVCSH",
+        "number": 12
+      }
+    ],
+    "data": [
+      {
+        "symbol": "FPT",
+        "year": 2025,
+        "quater": 0,
+        "type": null,
+        "content": "",
+        "time": "2025",
+        "data": [
+          {
+            "value": 5.22,
+            "name": "",
+            "code": "EPS",
+            "number": 0
+          },
+          {
+            "value": 21.42,
+            "name": "",
+            "code": "BV",
+            "number": 0
+          },
+          {
+            "value": 18.39,
+            "name": "",
+            "code": "PE",
+            "number": 0
+          },
+          {
+            "value": 0,
+            "name": "",
+            "code": "PB",
+            "number": 0
+          },
+          {
+            "value": 36.87,
+            "name": "",
+            "code": "GOS",
+            "number": 0
+          },
+          {
+            "value": 13.35,
+            "name": "",
+            "code": "ROS",
+            "number": 0
+          },
+          {
+            "value": 21.43,
+            "name": "",
+            "code": "ROE",
+            "number": 0
+          },
+          {
+            "value": 10.64,
+            "name": "",
+            "code": "ROA",
+            "number": 0
+          },
+          {
+            "value": 0,
+            "name": "",
+            "code": "TSTTHH",
+            "number": 0
+          },
+          {
+            "value": 0,
+            "name": "",
+            "code": "KNTTLV",
+            "number": 0
+          },
+          {
+            "value": 50.37,
+            "name": "",
+            "code": "DAR",
+            "number": 0
+          },
+          {
+            "value": 0,
+            "name": "",
+            "code": "TSNVTVCSH",
+            "number": 0
+          }
+        ]
+      },
+      {
+        "symbol": "FPT",
+        "year": 2024,
+        "quater": 0,
+        "type": null,
+        "content": "",
+        "time": "2024",
+        "data": [
+          {
+            "value": 4.94,
+            "name": "",
+            "code": "EPS",
+            "number": 0
+          },
+          {
+            "value": 20.25,
+            "name": "",
+            "code": "BV",
+            "number": 0
+          },
+          {
+            "value": 30.97,
+            "name": "",
+            "code": "PE",
+            "number": 0
+          },
+          {
+            "value": 0,
+            "name": "",
+            "code": "PB",
+            "number": 0
+          },
+          {
+            "value": 37.64,
+            "name": "",
+            "code": "GOS",
+            "number": 0
+          },
+          {
+            "value": 12.48,
+            "name": "",
+            "code": "ROS",
+            "number": 0
+          },
+          {
+            "value": 21.99,
+            "name": "",
+            "code": "ROE",
+            "number": 0
+          },
+          {
+            "value": 10.91,
+            "name": "",
+            "code": "ROA",
+            "number": 0
+          },
+          {
+            "value": 0,
+            "name": "",
+            "code": "TSTTHH",
+            "number": 0
+          },
+          {
+            "value": 0,
+            "name": "",
+            "code": "KNTTLV",
+            "number": 0
+          },
+          {
+            "value": 50.38,
+            "name": "",
+            "code": "DAR",
+            "number": 0
+          },
+          {
+            "value": 0,
+            "name": "",
+            "code": "TSNVTVCSH",
+            "number": 0
+          }
+        ]
+      }
+    ]
+  },
+  "errors": []
+}

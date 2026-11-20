@@ -1,0 +1,278 @@
+{
+  "isSuccess": true,
+  "value": {
+    "templace": [
+      {
+        "code": "TN",
+        "name": "Tài sản",
+        "number": 1,
+        "data": [
+          {
+            "lever": 1,
+            "number": 2,
+            "code": "100",
+            "name": "A. TÀI SẢN NGẮN HẠN",
+            "static": false
+          },
+          {
+            "lever": 1,
+            "number": 3,
+            "code": "110",
+            "name": "I. Tiền và các khoản tương đương tiền",
+            "static": false
+          },
+          {
+            "lever": 2,
+            "number": 4,
+            "code": "111",
+            "name": "1. Tiền",
+            "static": false
+          },
+          {
+            "lever": 1,
+            "number": 24,
+            "code": "\t450",
+            "name": "V. Tài sản sinh học ngắn hạn",
+            "static": false
+          },
+          {
+            "lever": 1,
+            "number": 80,
+            "code": "270",
+            "name": "TỔNG CỘNG TÀI SẢN",
+            "static": false
+          }
+        ]
+      },
+      {
+        "code": "NV",
+        "name": "Nguồn vốn",
+        "number": 2,
+        "data": [
+          {
+            "lever": 1,
+            "number": 81,
+            "code": "",
+            "name": "NGUỒN VỐN",
+            "static": false
+          },
+          {
+            "lever": 1,
+            "number": 82,
+            "code": "300",
+            "name": "C. NỢ PHẢI TRẢ",
+            "static": false
+          },
+          {
+            "lever": 2,
+            "number": 87,
+            "code": "313",
+            "name": "4. Thuế và các khoản phải nộp Nhà\nnước ngăn hạn",
+            "static": false
+          },
+          {
+            "lever": 1,
+            "number": 114,
+            "code": "400",
+            "name": "D VỐN CHỦ SỞ HỮU",
+            "static": false
+          },
+          {
+            "lever": 2,
+            "number": 116,
+            "code": "411",
+            "name": "1. Vốn góp của chủ sở hữu",
+            "static": false
+          },
+          {
+            "lever": 1,
+            "number": 134,
+            "code": "440",
+            "name": "TỔNG CỘNG NGUỒN VỐN",
+            "static": false
+          }
+        ]
+      }
+    ],
+    "data": [
+      {
+        "code": "TN",
+        "name": "Tài sản",
+        "number": 1,
+        "data": [
+          {
+            "symbol": "FPT",
+            "year": 2026,
+            "quater": 3,
+            "type": "H",
+            "content": "",
+            "time": "Q3-2026",
+            "data": [
+              {
+                "code": "100",
+                "value": 45976740865120,
+                "static": false
+              },
+              {
+                "code": "110",
+                "value": 7377342139505,
+                "static": false
+              },
+              {
+                "code": "111",
+                "value": 5219553844688,
+                "static": false
+              },
+              {
+                "code": "\t450",
+                "value": 0,
+                "static": false
+              },
+              {
+                "code": "270",
+                "value": 75329492718303,
+                "static": false
+              }
+            ]
+          },
+          {
+            "symbol": "FPT",
+            "year": 2026,
+            "quater": 2,
+            "type": "H",
+            "content": "",
+            "time": "Q2-2026",
+            "data": [
+              {
+                "code": "100",
+                "value": 45701998651416,
+                "static": false
+              },
+              {
+                "code": "110",
+                "value": 9065475533200,
+                "static": false
+              },
+              {
+                "code": "111",
+                "value": 5829076231076,
+                "static": false
+              },
+              {
+                "code": "\t450",
+                "value": 0,
+                "static": false
+              },
+              {
+                "code": "270",
+                "value": 73734163085489,
+                "static": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "NV",
+        "name": "Nguồn vốn",
+        "number": 2,
+        "data": [
+          {
+            "symbol": "FPT",
+            "year": 2026,
+            "quater": 3,
+            "type": "H",
+            "content": "",
+            "time": "Q3-2026",
+            "data": [
+              {
+                "code": "",
+                "value": 0,
+                "static": false
+              },
+              {
+                "code": "300",
+                "value": 31290111378462,
+                "static": false
+              },
+              {
+                "code": "313",
+                "value": 1545131912654,
+                "static": false
+              },
+              {
+                "code": "400",
+                "value": 44039381339841,
+                "static": false
+              },
+              {
+                "code": "411",
+                "value": 18857276480000,
+                "static": false
+              },
+              {
+                "code": "440",
+                "value": 75329492718303,
+                "static": false
+              }
+            ]
+          },
+          {
+            "symbol": "FPT",
+            "year": 2026,
+            "quater": 2,
+            "type": "H",
+            "content": "",
+            "time": "Q2-2026",
+            "data": [
+              {
+                "code": "",
+                "value": 0,
+                "static": false
+              },
+              {
+                "code": "300",
+                "value": 32738415255239,
+                "static": false
+              },
+              {
+                "code": "313",
+                "value": 1241666217996,
+                "static": false
+              },
+              {
+                "code": "400",
+                "value": 40995747830250,
+                "static": false
+              },
+              {
+                "code": "411",
+                "value": 17035071210000,
+                "static": false
+              },
+              {
+                "code": "440",
+                "value": 73734163085489,
+                "static": false
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "count": 83,
+    "type": null,
+    "unit": null,
+    "listType": [
+      {
+        "name": "Tài sản",
+        "code": "TN"
+      },
+      {
+        "name": "Nguồn vốn",
+        "code": "NV"
+      }
+    ]
+  },
+  "errors": []
+}

@@ -1,0 +1,248 @@
+{
+  "isSuccess": true,
+  "value": {
+    "templace": [
+      {
+        "code": "HDKD",
+        "name": "Lưu chuyển tiền từ ĐH kinh doanh",
+        "number": 1,
+        "data": [
+          {
+            "lever": 1,
+            "number": 2,
+            "code": "HDKD_2",
+            "name": "1. Lợi nhuận trước thuế ",
+            "static": false
+          },
+          {
+            "lever": 2,
+            "number": 4,
+            "code": "HDKD_4",
+            "name": "- Khấu hao TSCĐ và BĐSĐT ",
+            "static": false
+          },
+          {
+            "lever": 1,
+            "number": 20,
+            "code": "HDKD_20",
+            "name": "Lưu chuyển tiền thuần từ hoạt động kinh doanh ",
+            "static": false
+          }
+        ]
+      },
+      {
+        "code": "HDDT",
+        "name": "Lưu chuyển tiền từ HĐ đầu tư",
+        "number": 21,
+        "data": [
+          {
+            "lever": 1,
+            "number": 29,
+            "code": "HDDT_29",
+            "name": "Lưu chuyển tiền thuần từ hoạt động đầu tư ",
+            "static": false
+          }
+        ]
+      },
+      {
+        "code": "HDTC",
+        "name": "Lưu chuyển tiền từ HĐ tài chính",
+        "number": 30,
+        "data": [
+          {
+            "lever": 1,
+            "number": 38,
+            "code": "HDTC_38",
+            "name": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+            "static": false
+          },
+          {
+            "lever": 1,
+            "number": 39,
+            "code": "HDTC_39",
+            "name": "Lưu chuyển tiền thuần trong kỳ (50 = 20+30+40) ",
+            "static": false
+          },
+          {
+            "lever": 1,
+            "number": 42,
+            "code": "HDTC_42",
+            "name": "Tiền và tương đương tiền cuối kỳ (70 = 50+60+61) ",
+            "static": false
+          }
+        ]
+      }
+    ],
+    "data": [
+      {
+        "code": "HDKD",
+        "name": "Lưu chuyển tiền từ ĐH kinh doanh",
+        "number": 1,
+        "data": [
+          {
+            "symbol": "FPT",
+            "year": 2026,
+            "quater": 3,
+            "type": "H",
+            "content": "",
+            "time": "Q3-2026",
+            "data": [
+              {
+                "code": "HDKD_2",
+                "value": 8770160739433,
+                "static": false
+              },
+              {
+                "code": "HDKD_4",
+                "value": 1292850889343,
+                "static": false
+              },
+              {
+                "code": "HDKD_20",
+                "value": 951977889614,
+                "static": false
+              }
+            ]
+          },
+          {
+            "symbol": "FPT",
+            "year": 2026,
+            "quater": 2,
+            "type": "H",
+            "content": "",
+            "time": "Q2-2026",
+            "data": [
+              {
+                "code": "HDKD_2",
+                "value": 5714320093652,
+                "static": false
+              },
+              {
+                "code": "HDKD_4",
+                "value": 844627213729,
+                "static": false
+              },
+              {
+                "code": "HDKD_20",
+                "value": -1144550905787,
+                "static": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "HDDT",
+        "name": "Lưu chuyển tiền từ HĐ đầu tư",
+        "number": 21,
+        "data": [
+          {
+            "symbol": "FPT",
+            "year": 2026,
+            "quater": 3,
+            "type": "H",
+            "content": "",
+            "time": "Q3-2026",
+            "data": [
+              {
+                "code": "HDDT_29",
+                "value": -5543350707262,
+                "static": false
+              }
+            ]
+          },
+          {
+            "symbol": "FPT",
+            "year": 2026,
+            "quater": 2,
+            "type": "H",
+            "content": "",
+            "time": "Q2-2026",
+            "data": [
+              {
+                "code": "HDDT_29",
+                "value": -3579683989854,
+                "static": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "HDTC",
+        "name": "Lưu chuyển tiền từ HĐ tài chính",
+        "number": 30,
+        "data": [
+          {
+            "symbol": "FPT",
+            "year": 2026,
+            "quater": 3,
+            "type": "H",
+            "content": "",
+            "time": "Q3-2026",
+            "data": [
+              {
+                "code": "HDTC_38",
+                "value": 1474947550802,
+                "static": false
+              },
+              {
+                "code": "HDTC_39",
+                "value": -3116425266846,
+                "static": false
+              },
+              {
+                "code": "HDTC_42",
+                "value": 7377342139505,
+                "static": false
+              }
+            ]
+          },
+          {
+            "symbol": "FPT",
+            "year": 2026,
+            "quater": 2,
+            "type": "H",
+            "content": "",
+            "time": "Q2-2026",
+            "data": [
+              {
+                "code": "HDTC_38",
+                "value": 3279538557460,
+                "static": false
+              },
+              {
+                "code": "HDTC_39",
+                "value": -1444696338181,
+                "static": false
+              },
+              {
+                "code": "HDTC_42",
+                "value": 9065475533200,
+                "static": false
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "count": 83,
+    "type": null,
+    "unit": null,
+    "listType": [
+      {
+        "name": "Lưu chuyển tiền từ ĐH kinh doanh",
+        "code": "HDKD"
+      },
+      {
+        "name": "Lưu chuyển tiền từ HĐ đầu tư",
+        "code": "HDDT"
+      },
+      {
+        "name": "Lưu chuyển tiền từ HĐ tài chính",
+        "code": "HDTC"
+      }
+    ]
+  },
+  "errors": []
+}

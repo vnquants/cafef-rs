@@ -1,0 +1,76 @@
+{
+  "Data": [
+    {
+      "id": "6ae2a84f11738645496fb1f8",
+      "Type": 0,
+      "Quarter": 3,
+      "Year": 2026,
+      "Time": "Q3/2026",
+      "Name": "Báo cáo tài chính công ty mẹ quý 3 năm 2026",
+      "IconFile": "https://cafefnew.mediacdn.vn/Blazor/Images/pdf.svg",
+      "Link": "https://cafefnew.mediacdn.vn/Images/Uploaded/DuLieuDownload/BCTC/FPT_202610282020FPT2020BCTC20rieng20Quy20320nam202026_29102026085839.pdf?v=1793239120240"
+    },
+    {
+      "id": "6ae2a8dd11738645496fb1fb",
+      "Type": 0,
+      "Quarter": 3,
+      "Year": 2026,
+      "Time": "Q3/2026",
+      "Name": "Báo cáo tài chính hợp nhất quý 3 năm 2026",
+      "IconFile": "https://cafefnew.mediacdn.vn/Blazor/Images/pdf.svg",
+      "Link": "https://cafefnew.mediacdn.vn/Images/Uploaded/DuLieuDownload/BCTC/FPT_202610282020FPT2020BCTC20hop20nhat20Quy20320nam202026_29102026090100.pdf?v=1793239261794"
+    },
+    {
+      "id": "6a8946580763ddca1c4addbb",
+      "Type": 0,
+      "Quarter": 2,
+      "Year": 2026,
+      "Time": "Q2/2026",
+      "Name": "Báo cáo tài chính hợp nhất quý 2 năm 2026 (đã soát xét)",
+      "IconFile": "https://cafefnew.mediacdn.vn/Blazor/Images/pdf.svg",
+      "Link": "https://cafefnew.mediacdn.vn/Images/Uploaded/DuLieuDownload/BCTC/FPT_202608212020FPT2020BCTC20hop20nhat20ban20nien20da20soat20xet20nam202026_22082026134854.pdf?v=1787381336476"
+    },
+    {
+      "id": "69bd0630b51797afb2ee4752",
+      "Type": 0,
+      "Quarter": 5,
+      "Year": 2025,
+      "Time": "CN/2025",
+      "Name": "Báo cáo tài chính hợp nhất năm 2025 (đã kiểm toán)",
+      "IconFile": "https://cafefnew.mediacdn.vn/Blazor/Images/pdf.svg",
+      "Link": "https://cafefnew.mediacdn.vn/Images/Uploaded/DuLieuDownload/BCTC/20260319_-_FPT_-_BCTC_hop_nhat_nam_2025_da_kiem_toan_1773994300.pdf"
+    },
+    {
+      "id": "68fb3007d7802457ec16f7ac",
+      "Type": 0,
+      "Quarter": 3,
+      "Year": 2025,
+      "Time": "Q3/2025",
+      "Name": "Báo cáo tài chính quý 3 năm 2025",
+      "IconFile": "https://cafefnew.mediacdn.vn/Blazor/Images/pdf.svg",
+      "Link": "https://cafefnew.mediacdn.vn/Images/Uploaded/DuLieuDownload/BCTC/20251023_-_FPT_-_BCTC_cong_ty_me_Quy_3_2025_1761281525.pdf"
+    },
+    {
+      "id": "640094bde64c254f3acbdca9",
+      "Type": 0,
+      "Quarter": 4,
+      "Year": 2008,
+      "Time": "Q4/2008",
+      "Name": "Báo cáo tài chính hợp nhất quý 4 năm 2008",
+      "IconFile": "https://cafefnew.mediacdn.vn/images/downloadbctc/rar.jpg",
+      "Link": "https://cafefnew.mediacdn.vn/Images/Uploaded/DuLieuDownload/2008/FPT_08Q4_BCTC_HN.rar"
+    },
+    {
+      "id": "64009650e64c254f3acd25f6",
+      "Type": 0,
+      "Quarter": 5,
+      "Year": 2005,
+      "Time": "CN/2005",
+      "Name": "Báo cáo tài chính năm 2005 (đã kiểm toán)",
+      "IconFile": "https://cafefnew.mediacdn.vn/Blazor/Images/pdf.svg",
+      "Link": "https://cafefnew.mediacdn.vn/Images/Uploaded/DuLieuDownload/2005/FPT_05CN_BCTC_KT.pdf"
+    }
+  ],
+  "Message": null,
+  "Success": true
+}

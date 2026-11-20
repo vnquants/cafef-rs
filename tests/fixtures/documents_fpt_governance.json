@@ -1,0 +1,26 @@
+{
+  "Data": [
+    {
+      "id": null,
+      "Type": 0,
+      "Quarter": 0,
+      "Year": 0,
+      "Time": "30-07-2025",
+      "Name": "Báo cáo tình hình quản trị công ty",
+      "IconFile": "https://cafefnew.mediacdn.vn/Blazor/Images/pdf.svg",
+      "Link": "https://cafefnew.mediacdn.vn/download/310725/fpt-bao-cao-tinh-hinh-quan-tri-6-thang-dau-nam-2025-0.pdf"
+    },
+    {
+      "id": null,
+      "Type": 0,
+      "Quarter": 0,
+      "Year": 0,
+      "Time": "24-01-2025",
+      "Name": "Báo cáo tình hình quản trị công ty",
+      "IconFile": "https://cafefnew.mediacdn.vn/Blazor/Images/pdf.svg",
+      "Link": "https://cafefnew.mediacdn.vn/images/uploaded/dulieudownload/nghiquyet/fptbaocaotinhhinhquantricongtynam202402025-152134.pdf"
+    }
+  ],
+  "Message": null,
+  "Success": true
+}
